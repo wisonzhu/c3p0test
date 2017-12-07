@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-3.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mybatis-spring-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aspects-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-build-src-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-support-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-instrument-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-instrument-tomcat-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jdbc-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-jms-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-orm-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-oxm-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-struts-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-test-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-tx-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-web-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-webmvc-portlet-3.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
